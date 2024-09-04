@@ -1,4 +1,12 @@
-# dbank
+# Decentralized Finance (DeFi) App
+
+This project is a decentralized finance (DeFi) application built using the Motoko language, leveraging concepts from the Internet Computer (IC) documentation. The application features a frontend built with HTML and CSS, and is connected to a Motoko backend via a JavaScript frontend.
+
+## Features
+## Decentralized Finance: *Core functionalities for a DeFi app.*
+## Frontend: *Developed using HTML, CSS, and JavaScript for a seamless user experience.*
+## Backend: *Built with Motoko, the programming language designed for the Internet Computer.*
+## Integration: *The Motoko backend is integrated with the JavaScript frontend to provide dynamic interactions.*
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
